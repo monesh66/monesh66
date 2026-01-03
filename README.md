@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Moneshvel S T<br><br>  ->🎓 3rd-Year AI & ML Student at Bannari Amman Institute of Technology<br>  ->💻 Passionate Full-Stack Developer specializing in React.js (Frontend) and Node.js, Express, MongoDB (Backend)<br>  ->🤖 Enthusiast in Generative AI and actively exploring research papers on Artificial General Intelligence (AGI)<br>  ->🔧 Skilled in building dynamic web applications and solving real-world challenges through innovative solutions
+👋 Hi, I’m Moneshvel S T<br><br>  ->🎓 Final Year AI & ML Student at Bannari Amman Institute of Technology<br>  ->💻 Passionate Full-Stack Developer specializing in React.js (Frontend) and Node.js, Express, MongoDB (Backend)<br>  ->🤖 Enthusiast in Generative AI and actively exploring research papers on Artificial General Intelligence (AGI)<br>  ->🔧 Skilled in building dynamic web applications and solving real-world challenges through innovative solutions
 
 
 ## 🌐 Socials:
